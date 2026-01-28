@@ -1,4 +1,4 @@
-const strReverse = (str) => {
+const reverse = (str) => {
   const textStr = str.split("").reverse().join("");
   return textStr;
 };
