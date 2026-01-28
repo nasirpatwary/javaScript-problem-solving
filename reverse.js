@@ -5,4 +5,4 @@ const strReverse = (str) => {
 
 const str = "hello";
 const result = strReverse(str);
-console.log(result);
+
